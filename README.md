@@ -6,4 +6,4 @@ Desenvolvido com HTML e CSS, a página possui uma seção de topo com informaç�
 
 A seção de divulgação é destacada por uma imagem de fundo impactante. 
 
-## Esta página é a demonstração das minhas habilidades em desenvolvimento web, focadas em criar interfaces atrativas para apresentação de conteúdo cinematográfico. 🎥🌟
+## 🎥🌟
