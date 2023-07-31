@@ -1,4 +1,6 @@
-# Landing Page Doutor Estranho 2: No Multiverso da Loucura 🎬🌌
+# Doutor Estranho 2: No Multiverso da Loucura 🎬🌌
+
+Conheça: https://wbrunotech.github.io/strangeDoctor/
 
 Este projeto consiste em uma Landing Page que divulga o filme "Doutor Estranho 2: No Multiverso da Loucura". 
 
